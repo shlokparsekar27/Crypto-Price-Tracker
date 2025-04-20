@@ -89,6 +89,7 @@ nav .btn{
     display: flex;
     align-items: center;
     font-size: 14px;
+    font-weight: bold;
     margin: 0 15px;
     color: #ffda0b;
     border: 1px solid #fff;
