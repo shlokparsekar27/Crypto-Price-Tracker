@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Tracker</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="images/logo.png">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" 
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container">
+        <nav>
+            <img src="images/logo.png" alt="logo">
+            <ul>
+                <li><a href="https://www.binance.com/en-IN/markets/overview">Market</a></li>
+                <li><a href="https://www.binance.com/en-IN/futures/homes">Futures</a></li>
+                <li><a href="https://www.binance.com/en-IN/about">About Us</a></li>
+            </ul>
+            <a href="#" class="btn">EN</a>
+        </nav>
+        <div class="content">
+            <h1>BUY & SELL <br><span>Crypto</span></h1>
+            <p>Checkout the latest updates regarding Cryptocurrrency</p>
+            <a href="https://www.binance.com/en-IN" class="btn">EXPLORE MORE</a>
+        </div>
+
+        <div class="coin-list">
+            <div class="coin">
+                <img src="images/bitcoin.png" alt="Bitcoin">
+                <div>
+                    <h3>$<span id="bitcoin"></span></h3>
+                    <p>Bitcoin</p>
+                </div>
+            </div>
+            <div class="coin">
+                <img src="images/ethereum.png" alt="Ethereum">
+                <div>
+                    <h3>$<span id="ethereum"></span></h3>
+                    <p>Ethereum</p>
+                </div>
+            </div>
+            <div class="coin">
+                <img src="images/dogecoin.jpg" alt="Dogecoin">
+                <div>
+                    <h3>$<span id="dogecoin"></span></h3>
+                    <p>Dogecoin</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
