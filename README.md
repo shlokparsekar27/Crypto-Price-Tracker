@@ -43,7 +43,3 @@ This project allows users to track the current prices of Bitcoin, Ethereum, and 
 ## Contribution
 
 Feel free to fork, clone, or contribute to this project. Any suggestions or improvements are always welcome!
-
----
-
-This project is built to give beginners hands-on experience with **API integration**, **AJAX** calls, and **responsive web design**.
