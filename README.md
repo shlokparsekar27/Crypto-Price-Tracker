@@ -32,17 +32,17 @@ This project allows users to track the current prices of Bitcoin, Ethereum, and 
 
 ---
 
-## Contribution
-
-Feel free to fork, clone, or contribute to this project. Any suggestions or improvements are always welcome!
-
----
-
 ## How to Use
 
 1. Clone or download the repository.
 2. Open the `index.html` file in a browser.
 3. View live crypto prices for Bitcoin, Ethereum, and Dogecoin.
+
+---
+
+## Contribution
+
+Feel free to fork, clone, or contribute to this project. Any suggestions or improvements are always welcome!
 
 ---
 
